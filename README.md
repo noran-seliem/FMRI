@@ -23,7 +23,7 @@
 ![Alt text8](/images/image008.jpg )
  ![Alt text9](/images/image009.jpg )
 
-f.Smoothing 
+### f.Smoothing 
 
  ![Alt text10](/images/image010.jpg )
  ![Alt text11](/images/image011.jpg )
@@ -50,7 +50,7 @@ f.Smoothing
 
 ### 5- Region of Interest (ROI) Analysis
 
-b. Create an ROI for dorsal anterior cingulate cortex (dACC) using:
+### b. Create an ROI for dorsal anterior cingulate cortex (dACC) using:
 
 ### 1. The human atlas of Brodmann areas
 
